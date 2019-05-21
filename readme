@@ -1,0 +1,7 @@
+
+základní informace:
+		pri chybách sa vypíše popisek chyby na "stderr" a ukončí sa s hodnotou 1
+	jinak by vše mnelo fungovat podle zadání
+
+omezení projektu: pokuď sa server ukončí pred spracovaním všetkých požiadavkou, tak sa dané porty k daným požiadavkám neuzavrú
+
